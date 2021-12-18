@@ -1,4 +1,4 @@
-# Discrete-Time-Formation-Control
+# Discrete-Time Formation Control
 
 ## Background
 
