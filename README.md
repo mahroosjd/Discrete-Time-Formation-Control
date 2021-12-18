@@ -28,7 +28,7 @@ the formation control is governed by the following:
 
 ![image](https://user-images.githubusercontent.com/73758224/146636764-181c5754-f35c-45db-9c6b-e8b7ae8c8a96.png)
 
-## Discrete-Time Formulation Control
+## Discrete-Time Formation Control
 
 In order to have a discrete-time formulation, which would avoid the use of differentials, we can re-write the above expression as:
 
